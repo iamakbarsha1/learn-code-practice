@@ -1,0 +1,6 @@
+[submodule "elastic-search"]
+	path = elastic-search
+	url = git@github.com-personal:iamakbarsha1/elastic-search.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com-personal:iamakbarsha1/elastic-search.git
